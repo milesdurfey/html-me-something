@@ -1,7 +1,8 @@
 p {
     color: rebeccapurple;
     font-size: 20px;
-  }
+    margin: 30px;
+}
 
 a {
     font-size: 10px;
@@ -16,11 +17,10 @@ a {
     margin-bottom: 10px;
     margin-right: 100px;
     margin-left: 20px;
-    padding-top: 10px;
-    padding-right: 10px;
-    padding-bottom: 10px;
-    padding-left: 10px;
+    padding: 10px 10px;
+    border: 3px solid coral;
     border-style: double; 
+    display: inline-block;
     }
 
 #alert {
